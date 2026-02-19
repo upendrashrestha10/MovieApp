@@ -1,16 +1,23 @@
-# movieapp
 
-A new Flutter project.
 
-## Getting Started
+# movieapp - Flutter Movie Discovery App
+MovieApp is a modern Flutter-based movie discovery application that allows users to explore trending movies, view detailed information, and check ratings in a clean and cinematic UI.
 
-This project is a starting point for a Flutter application.
+Built using the Flutter framework, this app integrates with the TMDB API to fetch real-time movie data and display it in a smooth, responsive interface.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Tech Stack
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+💙 Flutter (Material 3)
+
+🌐 HTTP package for API integration
+
+🎠 Carousel Slider for featured movies
+
+🎨 Google Fonts for modern typography
+
+🎬 TMDB API for movie data
+
+
+## ScreenShot
+<img src="assets/movieapp.png">
